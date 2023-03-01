@@ -1,0 +1,10 @@
+public class HELLOWORLD {
+
+public static void main(string[] args) {
+
+system.out.printin("hey agni");
+system.out.printin("hey agni");
+
+
+}
+}
