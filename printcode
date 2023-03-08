@@ -7,6 +7,7 @@ system.out.printin("hey agni");
 system.out.printin("hey roy");
 system.out.printin("hey boy");
 system.out.printin("hey think");
+system.out.printin("hey hi");
 
 }
 }
